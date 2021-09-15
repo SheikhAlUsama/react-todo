@@ -1,0 +1,25 @@
+.top{
+    align-items: center;
+    margin-top: 8rem;
+}
+.widt{
+    background-color: lavenderblush;
+    border-radius: 5px 5px;
+    box-shadow: 7px 7px grey;
+    width: 50%;
+    margin: auto;
+   text-align: center;
+}
+.btn{
+    padding: 10px;
+    background-color:tomato;
+    font-size: bold;
+    color: white;
+}
+.input{
+    padding: 15px;
+}
+.todos{
+    display: flex;
+    justify-content: space-around;
+}
